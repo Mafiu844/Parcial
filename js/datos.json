@@ -1,0 +1,245 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Smart TV Uhd 4k",
+            "precio": 1.299,
+            "stock": 5,
+            "categoria": "Electrodomesticos",
+            "descripcion": "Televisor Ultra HD de 55 pulgadas, llega hasta 4k",
+            "marca": "Samsung",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_998760-MPE75069853874_032024-O.webp"
+        },
+
+        {
+            "id": 2,
+            "nombre": "Xiaomi Redmi Note 13",
+            "precio": 719,
+            "stock": 16,
+            "categoria": "Celulares",
+            "descripcion": "Celular con 256 GB de espacio color azul de 8GB de RAM",
+            "marca": "Xiaomi",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_706828-MLA74179817434_012024-O.webp"
+        },
+
+        {
+            "id": 3,
+            "nombre": "Nintendo Switch",
+            "precio": 1.309,
+            "stock": 10,
+            "categoria": "Consolas",
+            "descripcion": "64 GB de capacidad con 2 controles y resolución de 1920 px x 1080 px",
+            "marca": "Nintendo",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_981006-MLU73836905462_012024-O.webp"
+        },
+
+        {
+            "id": 4,
+            "nombre": "PS5 Slim",
+            "precio": 2.249,
+            "stock": 8,
+            "categoria": "Consolas",
+            "descripcion": "Capacidad de 1tb, color blanco con lector de disco",
+            "marca": "Sony",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_982484-MLU75585794590_042024-O.webp"
+        },
+
+        {
+            "id": 5,
+            "nombre": "Asus ROG Ally",
+            "precio": 2.749,
+            "stock": 14,
+            "categoria": "Consolas",
+            "descripcion": "512 GB de almacenamiento color blanco, portatil",
+            "marca": "Asus",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_705975-MLU73578772656_122023-O.webp"
+        },
+
+        {
+            "id": 6,
+            "nombre": "Nvidia Rtx 3050",
+            "precio": 1.078,
+            "stock": 8,
+            "categoria": "Computacion",
+            "descripcion": "Placa de video de 6gb de Vram GDDR6",
+            "marca": "MSI",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_853603-MLU75060469107_032024-O.webp"
+        },
+
+        {
+            "id": 7,
+            "nombre": "Licuadora Oster ",
+            "precio": 472,
+            "stock": 0,
+            "categoria": "Electrodomesticos",
+            "descripcion": "Licuadora con jarra de vidrio con capacidad de 1.5 L",
+            "marca": "Oster",
+            "disponibilidad": "No disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_995703-MLU69483011588_052023-O.webp"
+        },
+
+        {
+            "id": 8,
+            "nombre": "Xbox Series S",
+            "precio": 1.759,
+            "stock": 0,
+            "categoria": "Consolas",
+            "descripcion": "Consola de 1Tb de almacenamiento con 10 GB de Ram",
+            "marca": "Microsoft",
+            "disponibilidad": "No disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_850369-MLA74805962673_022024-O.webp"
+        },
+
+        {
+            "id": 9,
+            "nombre": "Apple Iphone 15",
+            "precio": 2.999,
+            "stock": 17,
+            "categoria": "Celulares",
+            "descripcion": "Iphone 15 de 128 De almacenamiento color Negro",
+            "marca": "Apple",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_779617-MLA71782867320_092023-O.webp"
+        },
+
+        {
+            "id": 10,
+            "nombre": "Cafetera Thomas",
+            "precio": 79,
+            "stock": 10,
+            "categoria": "Electrodomesticos",
+            "descripcion": "Cafetera de filtro de 750 mL de capacidad con filtro permanente",
+            "marca": "Thomas",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_832653-MPE50378634310_062022-O.webp"
+        },
+
+        {
+            "id": 11,
+            "nombre": "Monitor Curvo",
+            "precio": 1.879,
+            "stock": 5,
+            "categoria": "Computacion",
+            "descripcion": "Monitor curvo de 34 pulgadas con panel VA",
+            "marca": "Huawei",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_659281-MLU73786571542_012024-O.webp"
+        },
+
+        {
+            "id": 12,
+            "nombre": "Logitech G923",
+            "precio": 1.241,
+            "stock": 8,
+            "categoria": "Consolas",
+            "descripcion": "Timon para Xbox Series X color negro y con pedales",
+            "marca": "Logitech",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_698644-MLU76232188801_052024-O.webp"
+        },
+
+        {
+            "id": 13,
+            "nombre": "Watch Fit 3",
+            "precio": 47,
+            "stock": 5,
+            "categoria": "Smartwatches",
+            "descripcion": "Smartwatch con llamadas Bluetooth de 1.82 pulgadas",
+            "marca": "Huawei",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_672334-MPE76403727966_052024-O.webp"
+        },
+
+        {
+            "id": 14,
+            "nombre": "Lavadora Ecobubble",
+            "precio": 1.249,
+            "stock": 15,
+            "categoria": "Electrodomesticos",
+            "descripcion": "Lavadora marca samsung con capacidad de 17 Kg",
+            "marca": "Samsung",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_629837-MPE75785324989_042024-O.webp"
+        },
+
+        {
+            "id": 15,
+            "nombre": "Qcy Headphones",
+            "precio": 139,
+            "stock": 11,
+            "categoria": "Auriculares",
+            "descripcion": "Audifonos inalambricos resistentes al agua con cancelacion de ruido",
+            "marca": "QCY",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_807995-MPE74681351909_022024-O.webp"
+        },
+
+        {
+            "id": 16,
+            "nombre": "Laptop Gaming Victus",
+            "precio": 4.499,
+            "stock": 8,
+            "categoria": "Computacion",
+            "descripcion": "Laptop de 16 Gb de RAM DDR4 y con 512 GB de almacenamiendo",
+            "marca": "HP",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_789214-MLU70723081163_072023-O.webp"
+        },
+
+        {
+            "id": 17,
+            "nombre": "Laptop Lenovo",
+            "precio": 3.399,
+            "stock": 12,
+            "categoria": "Computacion",
+            "descripcion": "Laptop con 8 GB de RAM y con 512 GB de almacenamiento",
+            "marca": "Lenovo",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_980022-MLU73572185201_122023-O.webp"
+        },
+
+        {
+            "id": 18,
+            "nombre": "Arrocera Oster®",
+            "precio": 109,
+            "stock": 10,
+            "categoria": "Electrodomesticos",
+            "descripcion": "Olla arrocera color blanco con tapa de vidrio",
+            "marca": "Oster",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_611718-MPE43444335787_092020-O.webp"
+        },
+
+        {
+            "id": 19,
+            "nombre": "Steam Deck",
+            "precio": 3.099,
+            "stock": 21,
+            "categoria": "Consolas",
+            "descripcion": "Consola portatil con 16 GB de RAM y tactil",
+            "marca": "Valve",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_692966-MLU73202686767_122023-O.webp"
+        },
+
+        {
+            "id": 20,
+            "nombre": "AirPods Pro",
+            "precio": 889,
+            "stock": 4,
+            "categoria": "Auriculares",
+            "descripcion": "AirPods con microfono y cancelacion de ruido inalambrico",
+            "marca": "Apple",
+            "disponibilidad": "Disponible",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_952556-MPE72456164757_102023-O.webp"
+        }
+
+        
+    ]
+}
